@@ -1,0 +1,15 @@
+.column {
+  float: left;
+  width: 25%;
+  text-align: center;
+  font-size:25px;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+body {
+  background-color:bisque;
+}
